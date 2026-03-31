@@ -1,5 +1,5 @@
 ## QA Login Automation
-![Tests](https://github.com/LucasTroaca/QA-Login_Automation/actions/workflows/tests.yml/badge.svg)
+![Tests](https://github.com/LucasTroaca/QA-Login-Automation/actions/workflows/tests.yml/badge.svg)
 
 Automated login using Python with Playwright + Pytest andPage Object Model
 
